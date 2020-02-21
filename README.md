@@ -12,3 +12,4 @@ the number is 13
 Output:3
 the number is 10
 14 17 24 59 35 46 23 32 45 81
+
